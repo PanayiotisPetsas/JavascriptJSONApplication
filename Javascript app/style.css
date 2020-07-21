@@ -1,0 +1,46 @@
+body{
+  font-family: sans-serif;
+}
+
+p {
+  display:inline;
+}
+
+#buttonText{
+  font-weight: bold;
+  border: 1px black solid;
+  padding: 1px;
+}
+
+#outputs{
+
+
+}
+
+#buttonText{
+  margin: 5%;
+}
+#group{
+  border: 1px gray solid;
+  display:block;
+  padding: 12% 3%;
+  margin: 3% 30% 2% 30%;
+  text-align: center;
+
+}
+
+button, input[type="submit"], input[type="reset"] {
+	background: none;
+	color: inherit;
+	border: 1px black solid;
+	padding: 4px;
+  margin: 2px;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+
+}
+
+.text {
+  border-bottom: dotted 3px gray;
+}
